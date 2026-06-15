@@ -124,4 +124,12 @@ body {
     font-size: 20px;
     margin-top: 10px;
 }
-
+/* About Section */
+.about {
+    
+    background-color: #9e4646;
+}
+.about-content {
+    max-width: 800px;
+    margin: 0 auto;
+}
