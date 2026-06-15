@@ -133,3 +133,13 @@ body {
     max-width: 800px;
     margin: 0 auto;
 }
+/* Contact Section */
+.contact p {
+    font-size: 18px;
+    line-height: 2;
+} 
+.contact-content {
+    max-width: 800px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
