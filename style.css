@@ -143,3 +143,10 @@ body {
     margin-right: 20px;
     margin-left: 20px;
 }
+/* Footer */
+footer {
+    background-color: #6f4e37;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
